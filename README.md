@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Docker container
+``` bash
+docker run --name demo-redis -p 6379:6379 -d redis
+```
+
 ## Installation
 
 ```bash
